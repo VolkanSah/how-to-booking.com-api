@@ -79,6 +79,6 @@ In this example, the axios.post method is used to send the XML request message t
 - Check the response from the API to ensure that the rooms were created successfully.
 If the rooms were created successfully, the response from the API should include a status code of 200 and a message indicating that the room availability was updated.
 
-hoply it it helps
+hoply it helps!
 
 
